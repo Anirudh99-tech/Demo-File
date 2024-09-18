@@ -4,3 +4,4 @@ bug 2}
 public void issue{
 bug 1}
  dev branch
+dev using cli
