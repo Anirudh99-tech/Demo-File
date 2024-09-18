@@ -1,2 +1,5 @@
 public void {
 bug 2}
+
+public void issue{
+bug 1}
